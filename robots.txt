@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://purvi-gusain-fm.github.io/exlval-guidelines/sitemap.xml

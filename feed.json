@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Exlval",
+    "description": "",
+    "home_page_url": "https://purvi-gusain-fm.github.io/exlval-guidelines",
+    "feed_url": "https://purvi-gusain-fm.github.io/exlval-guidelines/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Purvi Gusain"
+    },
+    "items": [
+    ]
+}
